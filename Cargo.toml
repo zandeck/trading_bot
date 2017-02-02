@@ -1,0 +1,6 @@
+[package]
+name = "trading_bot"
+version = "0.1.0"
+authors = ["Matthieu <matthieu.zandecki@gmail.com>"]
+
+[dependencies]
